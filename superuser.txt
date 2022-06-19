@@ -1,3 +1,9 @@
 이름 kudonghyun
 이메일 h120803@naver.com
 비번 rnehdguswidrh (구동현쟝고)
+
+https://github.com/cookiejelly12/my-first-blog.git
+
+배포버전
+이름 cloba
+나머지 동일
